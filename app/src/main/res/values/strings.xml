@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CW1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_search">Search</string>
+    <string name="hint_search">Search for trip, activity, …</string>
+
+
+    <string name="title_expense">Expense</string>
+    <string name="title_id">ID</string>
+    <string name="title_date">Date</string>
+    <string name="title_note">Note</string>
+    <string name="title_money">Money</string>
+    <string name="title_category">Category</string>
+    <string name="title_trip">Trip</string>
+
+    <string name="title_trip_name">Trip name</string>
+    <string name="title_destination">Destination</string>
+    <string name="title_risk_assessment">Risk assessment</string>
+    <string name="title_description">Description</string>
+
+    <string name="hint_trip_name">Input trip name...</string>
+    <string name="hint_destination">Input destination...</string>
+    <string name="hint_description">Input description...</string>
+    <string name="hint_id">Input ID...</string>
+    <string name="hint_date">Input date...</string>
+    <string name="hint_note">Input note...</string>
+    <string name="hint_money">Input money...</string>
+    <string name="hint_category">Choose below or input...</string>
+
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_backup">Backup to Cloud</string>
+
+    <string name="example_date">JAN 01 2020</string>
+
+    <string name="title_item_breakfast">Breakfast</string>
+    <string name="title_item_lunch">Lunch</string>
+    <string name="title_item_dinner">Dinner</string>
+    <string name="title_item_contact_fee">Contact Fee</string>
+    <string name="title_item_medical">Medical</string>
+    <string name="title_item_exchange">Exchange</string>
+    <string name="title_item_abode">Abode</string>
+    <string name="title_item_printing">Printing</string>
+    <string name="title_item_transportation">Transportation</string>
+
+
+    <string name="title_activity">Activity</string>
+    <string name="search_result">Search result</string>
+    <string name="btn_see_all_activities">See all activities</string>
+
+    <string name="go_back">Go back</string>
+    <string name="btn_delete">Delete</string>
+
+</resources>
